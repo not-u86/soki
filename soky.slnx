@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="soky.vcxproj" Id="6a84c480-391a-4fc7-a27c-f124e1ade7a2" />
+</Solution>
